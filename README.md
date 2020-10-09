@@ -11,3 +11,18 @@ Data has been seen as invaluable information for bank looking to succesfully nav
 
 ## Dataset :
 In this EDA (exploratory data analysis i will be using a bank dataset's that consist of 100000 users from, France, Spain, Germany and includes the following variable :
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/57277832/95620271-1c3e0500-0a9a-11eb-91c1-6566d1c096bb.png)
+
+### Problem Statement
+
+- While the average rate of churn experienced little change, some sectors saw significant increases. The highest churn rate increase of 102% was in the banking sector, which saw the number of customers switching more than double from 12.2% to 24.6%.
+    - Source : https://www.globenewswire.com/news-release/2020/05/11/2030784/0/en/British-Businesses-Lose-Nearly-5-Billion-due-to-Unplanned-Customer-Churn.html
+
+- Customer Churn
+
+### EDA Goals
+- Finding out types of customers that most likely to churn
+- Finding out country that has the highest numbers of churn customers
+- Finding out does Credit Score and churn in banking has a correlation
